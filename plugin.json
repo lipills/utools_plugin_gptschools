@@ -1,0 +1,27 @@
+{
+	"pluginName": "GPTSchools",
+	"description": "chatgpt 聊天助手",
+	"main": "index.html",
+	"version": "0.0.1",
+	"logo": "logo.png",
+	"preload": "preload.js",
+	"homepage": "https://github.com/crazykun/utools-dingtalk",
+	"author": "李同学在炼丹<melonli@qq.com>",
+	"pluginSetting": {
+        "single": true
+    },
+	"features": [
+		{
+			"code": "GPTSchools",
+			"explain": "chatgpt 聊天助手, 支持GPT-3.5 GPT4聊天。无需配置代理，直接访问。",
+			"cmds": [
+				"gpt",
+				"chatgpt",
+				"gptschools",
+				"gpt聊天",
+				"聊天",
+				"AI"
+			]
+		}
+	]
+}
