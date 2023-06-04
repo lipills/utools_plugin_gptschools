@@ -1,5 +1,5 @@
 # 安装方法
-utools应用商店或者从[utools_plugin_gptschools](https://github.com/lipills/utools_plugin_gptschools)下载upx安装包。
+utools应用商店或者从[utools_plugin_gptschools](https://github.com/lipills/utools_plugin_gptschools/raw/main/GPTSchools-1.0.0.upx)下载upx安装包。
 
 # 使用方法
 通过关键字打开, 关键词:
