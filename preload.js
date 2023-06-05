@@ -17,7 +17,7 @@ utools.onPluginEnter(({ code, type, payload, optional }) => {
             .run(browser_id)
 
     } else {
-        utools.ubrowser.goto('https://gptschools.cn/')
+        utools.ubrowser.goto('https://chat.nfvschool.cn/')
             // .devTools('right')
             .run({ width: 900, height: 700 })
         is_show = 1
